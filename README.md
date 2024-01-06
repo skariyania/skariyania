@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Sahil Kariyania!
 
-I am a passionate programmer and tech enthusiast, exploring the realms of Data Science, Systems Softwares using Rust and Python. Currently, I'm diving deep into the Rust programming language, implementing daily examples to solidify my understanding. Simultaneously, I'm also honing my Python skills through hands-on examples, particularly focusing on data structures and design concepts.
+I am a passionate programmer and tech enthusiast, exploring the realms using Rust and Python. Currently, I'm diving deep into the Rust programming language, implementing daily examples to solidify my understanding. Simultaneously, I'm also honing my Python skills through hands-on examples, particularly focusing on data structures and design concepts.
 
 ## Repositories
 
@@ -11,7 +11,9 @@ I am a passionate programmer and tech enthusiast, exploring the realms of Data S
 
 ## About Me
 
-I hold a Bachelor of Engineering Degree in Computer from [Gujarat Technological University](https://gtu.ac.in/) (State University, Gujarat, India) and have decade of experience in Software Engineering. My passion for programming extends beyond repositories, and I'm also eager to contribute to open-source projects and collaborate with fellow developers.
+I earned my Bachelor of Engineering Degree in Computer from [Gujarat Technological University](https://gtu.ac.in/) (a State University in Gujarat, India). With a decade of dedicated experience in Enterprise Software Engineering, I bring a wealth of knowledge to the table. My enthusiasm for programming extends far beyond repositories, and I am keen to contribute to impactful open-source projects while fostering collaboration with fellow developers.
+
+I have made significant contributions in renowned organizations, including [Accenture Applied Intelligence](https://www.accenture.com/in-en/services/ai-artificial-intelligence-index) — a global technology giant. I've also played a pivotal role in shaping the technology landscape at a Series A startup - [BIK](https://bik.ai/), bringing innovation and agility to the forefront.
 
 ## LinkedIn
 
