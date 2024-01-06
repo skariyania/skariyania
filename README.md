@@ -11,7 +11,7 @@ I am a passionate programmer and tech enthusiast, exploring the realms of Data S
 
 ## About Me
 
-I hold a Bachelor of Engineering Degree in Computer from Gujarat Technological University (State University, Gujarat, India) and have decade of experience in Software Engineering. My passion for programming extends beyond repositories, and I'm also eager to contribute to open-source projects and collaborate with fellow developers.
+I hold a Bachelor of Engineering Degree in Computer from [Gujarat Technological University](https://gtu.ac.in/) (State University, Gujarat, India) and have decade of experience in Software Engineering. My passion for programming extends beyond repositories, and I'm also eager to contribute to open-source projects and collaborate with fellow developers.
 
 ## LinkedIn
 
