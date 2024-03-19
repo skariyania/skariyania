@@ -2,12 +2,13 @@
 
 👋 Hello, I'm Sahil Kariyania!
 
-I am a passionate programmer and tech enthusiast, exploring the realms using Rust and Python. Currently, I'm diving deep into the Rust programming language, implementing daily examples to solidify my understanding. Simultaneously, I'm also honing my Python skills through hands-on examples, particularly focusing on data structures and design concepts.
+I am a passionate programmer and tech enthusiast, exploring the realms using Rust, Python and Go.
 
 ## Repositories
 
 - [rust-conceptual](https://github.com/skariyania/rust-conceptual): Daily examples and implementations exploring Rust programming concepts.
 - [py-conceptual](https://github.com/skariyania/py-conceptual): Python-centric repository focusing on data structures and design concepts.
+- [go-conceptual](https://github.com/skariyania/go-conceptual): Golang repository focusing on practical microservices / boilerplates / DSA.
 
 ## About Me
 
