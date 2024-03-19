@@ -12,9 +12,9 @@ I am a passionate programmer and tech enthusiast, exploring the realms using Rus
 
 ## About Me
 
-I earned my Bachelor of Engineering Degree in Computer from [Gujarat Technological University](https://gtu.ac.in/) (a State University in [Gujarat](https://en.wikipedia.org/wiki/Gujarat), [India](https://en.wikipedia.org/wiki/India)). With a decade of dedicated experience in Enterprise Software Engineering, I bring a wealth of knowledge to the table. My enthusiasm for programming extends far beyond repositories, and I am keen to contribute to impactful open-source projects while fostering collaboration with fellow developers.
-
 I have made significant contributions in renowned organizations, including [Accenture Applied Intelligence](https://www.accenture.com/in-en/services/ai-artificial-intelligence-index) — a global technology giant. I've also played a pivotal role in shaping the technology landscape at a Seed Startup - [Kogentix AI](https://newsroom.accenture.com/news/2018/accenture-acquires-kogentix-to-help-clients-run-legacy-analytics-applications-on-open-source-technologies-to-get-ahead-of-data-surge) and Series A startup - [BIK AI](https://bik.ai/), bringing innovation and agility to the forefront.
+
+I earned my Bachelor of Engineering Degree in Computer from [Gujarat Technological University](https://gtu.ac.in/) (a State University in [Gujarat](https://en.wikipedia.org/wiki/Gujarat), [India](https://en.wikipedia.org/wiki/India)). With a decade of dedicated experience in Enterprise Software Engineering, I bring a wealth of knowledge to the table. My enthusiasm for programming extends far beyond repositories, and I am keen to contribute to impactful open-source projects while fostering collaboration with fellow developers.
 
 ## My Recent Readings 📖
 
