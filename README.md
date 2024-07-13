@@ -1,20 +1,19 @@
 ### Sahil Kariyania
 
 👋 Hello, I'm Sahil Kariyania!
+<br/>
+#==================
+<br/>
 
-I am a passionate programmer and tech enthusiast, exploring the realms using Rust, Python and Go.
-
-## Repositories
-
-- [rust-conceptual](https://github.com/skariyania/rust-conceptual): Daily examples and implementations exploring Rust programming concepts.
-- [py-conceptual](https://github.com/skariyania/py-conceptual): Python-centric repository focusing on data structures and design concepts.
-- [go-conceptual](https://github.com/skariyania/go-conceptual): Golang repository focusing on practical microservices / boilerplates / DSA.
 
 ## About Me
 
-I have made significant contributions in renowned organizations, including [Accenture Applied Intelligence](https://www.accenture.com/in-en/services/ai-artificial-intelligence-index) — a global technology giant. I've also played a pivotal role in shaping the technology landscape at a Seed Startup - [Kogentix AI](https://newsroom.accenture.com/news/2018/accenture-acquires-kogentix-to-help-clients-run-legacy-analytics-applications-on-open-source-technologies-to-get-ahead-of-data-surge) and Series A startup - [BIK AI](https://bik.ai/), bringing innovation and agility to the forefront.
+I am a programmer and tech enthusiast, operating from Bengaluru.
 
-I earned my Bachelor of Engineering Degree in Computer from [Gujarat Technological University](https://gtu.ac.in/) (a State University in [Gujarat](https://en.wikipedia.org/wiki/Gujarat), [India](https://en.wikipedia.org/wiki/India)). With a decade of dedicated experience in Enterprise Software Engineering, I bring a wealth of knowledge to the table. My enthusiasm for programming extends far beyond repositories, and I am keen to contribute to impactful open-source projects while fostering collaboration with fellow developers.
+Professionally I'm Principal Engineer at Wissen Technology's global clients.
+In past, I've played a pivotal role in shaping the technology landscape at a Seed Startup - [Kogentix AI](https://newsroom.accenture.com/news/2018/accenture-acquires-kogentix-to-help-clients-run-legacy-analytics-applications-on-open-source-technologies-to-get-ahead-of-data-surge) and Series A startup - [BIK AI](https://bik.ai/), bringing innovation and agility to the forefront.
+I've also made significant contributions at [Accenture Applied Intelligence](https://www.accenture.com/in-en/services/ai-artificial-intelligence-index) — a global technology giant.
+
 
 ## My Recent Readings 📖
 
