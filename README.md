@@ -8,9 +8,9 @@
 
 ## About Me
 
-I am a programmer and tech enthusiast, operating from Bengaluru.
+I am a Software engineering leader, operating from Bengaluru.
 
-Professionally I'm Principal Engineer at Wissen Technology's global clients.
+Professionally I'm Technical Leader @ Invenco by GVR, a Vontier group company.
 In past, I've played a pivotal role in shaping the technology landscape at a Seed Startup - [Kogentix AI](https://newsroom.accenture.com/news/2018/accenture-acquires-kogentix-to-help-clients-run-legacy-analytics-applications-on-open-source-technologies-to-get-ahead-of-data-surge) and Series A startup - [BIK AI](https://bik.ai/), bringing innovation and agility to the forefront.
 I've also made significant contributions at [Accenture Applied Intelligence](https://www.accenture.com/in-en/services/ai-artificial-intelligence-index) — a global technology giant.
 
